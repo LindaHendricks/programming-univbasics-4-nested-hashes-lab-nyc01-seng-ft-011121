@@ -111,7 +111,9 @@ def changing_alan
       }
     }
 
-programmer_hash
+if changing_alan[:alan_kay]
+  changing_alan[:alan_kay][:known_for] = 
+
 end
 
 def adding_to_dennis
