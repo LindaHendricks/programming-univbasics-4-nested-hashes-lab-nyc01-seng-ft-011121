@@ -111,8 +111,8 @@ def changing_alan
       }
     }
 
-  changing_alan[:alan_kay][:known_for] = "GUI"
-  changing_alan
+  changing_alan[:known_for] = "GUI"
+  
 end
 
 def adding_to_dennis
