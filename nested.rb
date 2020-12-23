@@ -136,7 +136,7 @@ def adding_to_dennis
         :languages => ["C"]
       }
     }
-if adding_to_dennis.include? :dennis_ritchie
+if programmer_hash.include? :dennis_ritchie
    programmer_hash[:dennis_ritchie][:languages][1] = "Assembly"
 end
 programmer_hash
