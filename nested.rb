@@ -111,7 +111,6 @@ def changing_alan
       }
     }
 
-end
 programmer_hash
 end
 
