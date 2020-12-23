@@ -114,7 +114,7 @@ def changing_alan
 if changing_alan[:alan_kay]
   changing_alan[:alan_kay][:known_for] = "GUI"
  end
-
+changing_alan
 end
 
 def adding_to_dennis
