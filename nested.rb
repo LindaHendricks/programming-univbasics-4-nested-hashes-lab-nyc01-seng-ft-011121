@@ -111,8 +111,10 @@ def changing_alan
       }
     }
 
-  changing_alan[:known_for] = "GUI"
-  
+  if programmer_hash.include[:known_for] 
+    programmer_hash[:alan_kay][:known_for] = "GUI"
+  end
+  programmer_hash
 end
 
 def adding_to_dennis
