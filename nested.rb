@@ -112,7 +112,8 @@ def changing_alan
     }
 
 if changing_alan[:alan_kay]
-  changing_alan[:alan_kay][:known_for] = 
+  changing_alan[:alan_kay][:known_for] = "GUI"
+ end
 
 end
 
